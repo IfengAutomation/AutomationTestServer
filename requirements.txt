@@ -1,0 +1,6 @@
+flask
+Flask-SQLAlchemy
+Flask-Script
+Flask_login
+wtforms
+requests
